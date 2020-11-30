@@ -1,0 +1,68 @@
+
+body {
+    background-color: lightgray;
+}
+
+#resim{
+ margin-left:300px;
+ font-weight: 200px;
+    
+ 
+}
+
+ table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration:none;
+}
+p{
+    width: 1000px;
+}
+h2{
+    border-style: inset;
+    padding-left: 10px;
+    border-radius: 10px;
+    color:darkred;
+}
+.ornek{
+width: 900px;
+
+}
+.sağ{
+float:right;
+padding:0 10px 10px 0;
+}
