@@ -165,15 +165,16 @@ font-size: 20px;}
 .yazı{
     
     width: 1000px;
- 
-    border: 3px solid darkolivegreen;
+    display: block;
+    border: 5px dotted darkolivegreen;
     border-radius: 10px;
+  border-spacing: inherit;
+   
     background-color: mintcream;
     text-align: center
-
     padding-left: 150px;
     padding-top: 10px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     font-size: 25px;
     margin: auto;
 }
@@ -185,6 +186,7 @@ footer {
    border-radius: 10px;
    
      text-align: center
+    
          
    
 }
@@ -194,11 +196,9 @@ footer {
     text-align: center;
     padding-bottom: 30px;
 }
-.resim2{
-    text-align: center;
-     padding-top: 30px;
-    width: 600px
-        height:300px;
-}
+
+
+ 
+    
 
 
