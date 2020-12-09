@@ -6,6 +6,7 @@ body {
     font-size:50px;
     padding-top: 10px;
     
+    
 }
 
 nav {
@@ -118,7 +119,7 @@ p{
 h2{
     border-style: inset;
     padding-left: 10px;
-    border-radius: 10px;
+    border-radius: 20px;
     color:darkolivegreen;
      font-size: 35px;
     text-align: center;
@@ -216,6 +217,14 @@ font-family: sans-serif;
   border-radius: 4px;
   padding: 5px;
   width: 600px; }
+.projee{ 
+float: right; 
+padding-right:600px;
+padding-bottom:50px;
+}
+#projez{
+float:right;
+padding-right:200px; }
 
 
 
